@@ -1,0 +1,25 @@
+{
+  "name": "closure",
+  "version": "1.0.0",
+  "description": "Moderation bot for discord servers",
+  "main": "closure.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ClosureBot"
+  },
+  "keywords": [
+    "discord",
+    "javascript",
+    "discordbot",
+    "arknights"
+  ],
+  "author": "Kurisu#7733",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "mysql": "^2.18.1"
+  }
+}
